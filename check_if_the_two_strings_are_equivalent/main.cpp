@@ -24,7 +24,7 @@ else
 {
 result=false;
 }
-return result;
+return result
 }
 
 int main()
